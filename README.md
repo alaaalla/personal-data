@@ -1,1 +1,1 @@
-ttps://alaaalla.github.io/personal-data/
+https://alaaalla.github.io/personal-data/
